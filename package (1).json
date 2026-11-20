@@ -1,0 +1,9 @@
+{
+  "name": "live-chaos-promo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animação de divulgação do Live Chaos (projeto separado do jogo)",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
